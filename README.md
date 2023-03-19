@@ -1,4 +1,5 @@
 # 8-Puzzle Solver
+![](8puzzle.jpg)
 **8-Hlavolam** je zložený z 8 očíslovaných políčok a jedného 
 prázdneho miesta. Políčka je možné presúvať hore, dole, vľavo alebo vpravo, ale len ak je tým smerom 
 medzera. Je vždy daná nejaká východisková a nejaká cieľová pozícia a je potrebné nájsť postupnosť 
